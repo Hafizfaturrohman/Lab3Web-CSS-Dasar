@@ -19,13 +19,17 @@ browser? Berikan penjelasan dan contohnya! `( <p id="paragraf-1" class="text-
 paragraf"> )`
 
 # Jawab
-1. Mengubah warna background
-
+1. Ketika property dan value CSS diubah, tampilan halaman web akan ikut berubah sesuai dengan aturan CSS yang diberikan.
 Kode awal:
-body {
-    background-color: #f4f7fb;
-}
-Kemudian diubah menjadi:
-body {
-    background-color: #eaf2f8;
-}
+Contohnya:
+  `body {
+     background-color: #eaf2f8;
+}`
+Perubahan tersebut akan membuat warna latar belakang halaman menjadi lebih terang.
+Contoh lainnya:
+.`hero h1 {
+    font-size: 55px;   
+}`
+Perubahan `font-size` akan membuat ukuran judul pada bagian hero menjadi lebih besar.
+
+
