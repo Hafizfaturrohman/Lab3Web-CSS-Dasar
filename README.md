@@ -20,17 +20,6 @@ paragraf"> )`
 
 # Jawab
 1. Ketika property dan value CSS diubah, tampilan halaman web akan ikut berubah sesuai dengan aturan CSS yang diberikan.
-Kode awal:
-Contohnya:
-  `body {
-     background-color: #eaf2f8;
-}`
-Perubahan tersebut akan membuat warna latar belakang halaman menjadi lebih terang.
-Contoh lainnya:
-.`hero h1 {
-    font-size: 55px;   
-}`
-Perubahan `font-size` akan membuat ukuran judul pada bagian hero menjadi lebih besar.
 2. `h1 { ... }` digunakan untuk memberikan style kepada semua elemen `<h1>` yang terdapat pada halaman.
 3. Ketiga jenis CSS tersebut dapat digunakan pada halaman HTML, tetapi inline CSS memiliki prioritas lebih tinggi dibandingkan internal CSS dan external CSS apabila mengatur property yang sama dan tidak terdapat `!important`.
 4. Selector ID `(#)` memiliki tingkat spesifisitas lebih tinggi daripada selector Class `(.)`.
